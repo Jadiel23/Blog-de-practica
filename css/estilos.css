@@ -36,9 +36,13 @@ body {
 #container p {
     color: black;
 }
+#post {
+    background: white;
+    padding: 1em;
+}
 #footer {
-    background: #777;
-    color: white;
+    color: beige;
+    background: grey;
     text-align: center;
     padding: 0.5em;
 }
